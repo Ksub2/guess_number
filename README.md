@@ -1,1 +1,1 @@
-# guess_number
+Number Guessing game using python
